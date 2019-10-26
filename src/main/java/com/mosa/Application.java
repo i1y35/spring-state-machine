@@ -1,4 +1,4 @@
-package com.mosa;
+package com.i1y35;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
